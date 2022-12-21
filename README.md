@@ -2,7 +2,7 @@
 
 ## Description
 
-Final project of IST421 - Information Visualization (Fall 2022)/
+Final project of IST421 - Information Visualization (Fall 2022)
 
 [Live Demo](https://drive.google.com/file/d/1A8Rm7SrLQuF98ynDD4VxmlC9B0Mqai3f/view?usp=sharing)
 
